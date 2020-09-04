@@ -1,6 +1,6 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.0</latestVersion>
+    <latestVersion>1.1</latestVersion>
     <latestVersionCode>2</latestVersionCode>
     <url>https://github.com/megadroidplus/m3u/releases</url>
   </update>
