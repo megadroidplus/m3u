@@ -1,11 +1,12 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.0</latestVersion>
-    <latestVersionCode>1</latestVersionCode>
+    <latestVersion>1.1</latestVersion>
+    <latestVersionCode>1.0</latestVersionCode>
     <url>https://github.com/megadroidplus/m3u/releases</url>
     <releaseNotes>
 Uma nova atualização está disponível para download.
-Baixando a atualização mais recente, você obterá melhorias e correções de bugs do BTV PLAY.
+Foram adicionados melhorias e correções de bugs.
+Baixe a atualização mais recente do BTV PLAY! 📺💙
 </releaseNotes>
   </update>
 </AppUpdater>
