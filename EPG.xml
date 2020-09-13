@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="m3u4u" generator-info-url="https://#">
+<channel id="Afazenda.br(m3u4u)">
+<display-name>A Fazenda</display-name>
+</channel>
+<channel id="BigMouth.br(m3u4u)">
+<display-name>BigMouth</display-name>
+</channel>
+
+<channel id="Mundobita.br(m3u4u)">
+<display-name>Mundo Bita</display-name>
+</channel>
+<channel id="Cavaleirodoszodiaco.br(m3u4u)">
+<display-name>Cavaleiros do Zodiaco</display-name>
+</channel>
+<channel id="Omaskara.br(m3u4u)">
+<display-name>O Maskara</display-name>
+</channel>
+
+<channel id="ScoobyDoo.br(m3u4u)">
+<display-name>ScoobyDoo</display-name>
+</channel>
+
+
+
+<programme start="20200916230000 +0000" stop="20210917000000 +0000" channel="(Afazenda.br(m3u4u)">
+<title lang="pt-BR" >Acompanhe 24h por dia o reality A Fazenda 12.</title>
+<desc lang="pt-BR">A Fazenda é um reality show brasileiro produzido e exibido pela RecordTV. Baseado no formato The Farm, que foi originalmente criado em 2001 pela produtora sueca Strix e produzida em associação com a Sony Entertainment e Endemol. Este formato já foi apresentado com sucesso em mais de 40 países</desc>
+</programme>
+
+
+<programme start="20200916230000 +0000" stop="20210917000000 +0000" channel="(BigMouth.br(m3u4u)">
+<title lang="pt-BR" >Big Mouth</title>
+<desc lang="pt-BR">Big Mouth é uma série animada de comédia adulta criada por Nick Kroll, Andrew Goldberg, Mark Levin e Jennifer Flackett, e exibida pela Netflix desde setembro de 2017.</desc>
+</programme>
+
+<programme start="20200916230000 +0000" stop="20210917000000 +0000" channel="Mundobita.br(m3u4u)">
+<title lang="pt-BR" >Mundo Bita</title>
+<desc lang="pt-BR">#</desc>
+</programme>
+
+<programme start="20200916230000 +0000" stop="20210917000000 +0000" channel="Cavaleirodoszodiaco.br(m3u4u)">
+<title lang="pt-BR" >#</title>
+<desc lang="pt-BR">#</desc>
+</programme>
+
+<programme start="20200916230000 +0000" stop="20210917000000 +0000" channel="(Omaskara.br(m3u4u)">
+<title lang="pt-BR" >#</title>
+<desc lang="pt-BR">#</desc>
+</programme>
+
+<programme start="20200916230000 +0000" stop="20210917000000 +0000" channel="ScoobyDoo.br(m3u4u)">
+<title lang="pt-BR" >#</title>
+<desc lang="pt-BR">#</desc>
+</programme>
+
+
+
+
+
+</tv>
