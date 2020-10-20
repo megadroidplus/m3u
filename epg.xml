@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tv generator-info-name="M3U-Editor.com" generator-info-url="https://m3u-editor.com">
+  <channel id="ameacaprofunda">
+    <display-name>FRANCE 2</display-name>
+  </channel>
+  <channel id="altosnegocios">
+    <display-name>CNN INT.</display-name>
+  </channel>
+  <channel id="aquiestamos">
+    <display-name>EUROSPORT 1</display-name>
+  </channel>
+  <channel id="badboyssempre">
+    <display-name>USHUAIA TV</display-name>
+  </channel>
+  <channel id="crush">
+    <display-name>ARTE</display-name>
+  </channel>
+  <channel id="classica.fr">
+    <display-name>CLASSICA</display-name>
+  </channel>
+  <channel id="penthouse.fr">
+    <display-name>PENTHOUSE</display-name>
+  </channel>
+  <channel id="canal+sport.fr">
+    <display-name>CANAL+ SPORT</display-name>
+  </channel>
+  <channel id="canal+cinema.fr">
+    <display-name>CANAL+ CINEMA</display-name>
+  </channel>
+  <channel id="canal+decale.fr">
+    <display-name>CANAL+ DECALE</display-name>
+  </channel>
+  <channel id="canal+family.fr">
+    <display-name>CANAL+ FAMILY</display-name>
+  </channel>
+  <channel id="mezzolive.fr">
+    <display-name>MEZZO LIVE</display-name>
+  </channel>
+  <channel id="planete+.fr">
+    <display-name>PLANETE+</display-name>
+  </channel>
+  <channel id="disneyjunior.fr">
+    <display-name>DISNEY JUNIOR</display-name>
+  </channel>
+  <channel id="nationalgeographicwild.fr">
+    <display-name>NATIONAL GEOGRAPHIC  WILD</display-name>
+  </channel>
+  <channel id="teva.fr">
+    <display-name>TEVA</display-name>
+  </channel>
+  <channel id="parispremiere.fr">
+    <display-name>PARIS PREMIERE</display-name>
+  </channel>
+  <channel id="w9.fr">
+    <display-name>W9</display-name>
+  </channel>
+  <channel id="canal+.fr">
+    <display-name>CANAL+</display-name>
+  </channel>
+  <channel id="nationalgeo.fr">
+    <display-name>NATIONAL GEO</display-name>
+  </channel>
+  <channel id="france24.fr">
+    <display-name>FRANCE 24</display-name>
+  </channel>
+  <channel id="tf1.fr">
+    <display-name>TF1</display-name>
+  </channel>
+  <channel id="m6.fr">
+    <display-name>M6</display-name>
+  </channel>
+  <channel id="cine+premier.fr">
+    <display-name>CINE+ PREMIER</display-name>
+  </channel>
+  <channel id="euronews.fr">
+    <display-name>EURONEWS</display-name>
+  </channel>
+  <channel id="m6music.fr">
+    <display-name>M6 MUSIC</display-name>
+  </channel>
+  <channel id="serieclub.fr">
+    <display-name>SERIE CLUB</display-name>
+  </channel>
+  
+  
+  
+  <programme start="20201021055600 +0000" stop="20221021064600 +0000" channel="ameacaprofunda">
+    <title>Smallville - S7 - Ép 14</title>
+    <desc>Série Aventure</desc>
+  </programme>
+  <programme start="20201021064600 +0000" stop="20211021073100 +0000" channel="altosnegocios">
+    <title>Smallville - S7 - Ép 15</title>
+    <desc>Série Aventure</desc>
+  </programme>
+  <programme start="20201021073100 +0000" stop="20211021082100 +0000" channel="aquiestamos">
+    <title>Stargate Universe - S2 - Ép 16</title>
+    <desc>Série Fantastique</desc>
+  </programme>
+  <programme start="20201021082100 +0000" stop="20211021091100 +0000" channel="badboyssempre">
+    <title>Stargate Universe - S2 - Ép 17</title>
+    <desc>Série Fantastique</desc>
+  </programme>
+  <programme start="20201021091100 +0000" stop="20211021093600 +0000" channel="crush">
+    <title>Mon oncle Charlie - S5 - Ép 13</title>
+    <desc>Série Humour</desc>
+  </programme>
+  <programme start="20201021093600 +0000" stop="20211021100100 +0000" channel="warnertv.fr">
+    <title>Mon oncle Charlie - S5 - Ép 14</title>
+    <desc>Série Humour</desc>
+  </programme>
+  <programme start="20201021100100 +0000" stop="20201021102600 +0000" channel="warnertv.fr">
+    <title>Mon oncle Charlie - S5 - Ép 15</title>
+    <desc>Série Humour</desc>
+  </programme>
+  <programme start="20201021102600 +0000" stop="20201021105600 +0000" channel="warnertv.fr">
+    <title>Big Bang Theory - S5 - Ép 22</title>
+    <desc>Série Humour</desc>
+  </programme>
+  <programme start="20201021105600 +0000" stop="20201021111600 +0000" channel="warnertv.fr">
+    <title>Big Bang Theory - S5 - Ép 23</title>
+    <desc>Série Humour</desc>
+  </programme>
+  <programme start="20201021111600 +0000" stop="20201021114100 +0000" channel="warnertv.fr">
+    <title>Big Bang Theory - S5 - Ép 24</title>
+    <desc>Série Humour</desc>
+  </programme>
+  <programme start="20201021114100 +0000" stop="20201021122600 +0000" channel="warnertv.fr">
+    <title>The Closer : L.A. enquêtes prioritaires - S7 - Ép 4</title>
+    <desc>Série Policière</desc>
+  </programme>
+  <programme start="20201021122600 +0000" stop="20201021131100 +0000" channel="warnertv.fr">
+    <title>The Closer : L.A. enquêtes prioritaires - S7 - Ép 5</title>
+    <desc>Série Policière</desc>
+  </programme>
+  <programme start="20201021131100 +0000" stop="20201021140100 +0000" channel="warnertv.fr">
+    <title>The Closer : L.A. enquêtes prioritaires - S7 - Ép 6</title>
+    <desc>Série Policière</desc>
+  </programme>
+  <programme start="20201021140100 +0000" stop="20201021145100 +0000" channel="warnertv.fr">
+    <title>The Closer : L.A. enquêtes prioritaires - S7 - Ép 7</title>
+    <desc>Série Policière</desc>
+  </programme>
+  <programme start="20201021145100 +0000" stop="20201021153600 +0000" channel="warnertv.fr">
+    <title>Stargate Universe - S2 - Ép 18</title>
+    <desc>Série Fantastique</desc>
+  </programme>
+  <programme start="20201021153600 +0000" stop="20201021162600 +0000" channel="warnertv.fr">
+    <title>Stargate Universe - S2 - Ép 19</title>
+    <desc>Série Fantastique</desc>
+  </programme>
+  <programme start="20201021162600 +0000" stop="20201021165100 +0000" channel="warnertv.fr">
+    <title>Mon oncle Charlie - S5 - Ép 16</title>
+    <desc>Série Humour</desc>
+  </programme>
+  <programme start="20201020150500 +0000" stop="20201020195000 +0000" channel="xxl.fr">
+    <title>Fin des programmes</title>
+    <desc>Divers</desc>
+  </programme>
+  <programme start="20201020195000 +0000" stop="20201020203100 +0000" channel="xxl.fr">
+    <title>Fin des programmes</title>
+    <desc>Divers</desc>
+  </programme>
+  <programme start="20201020203100 +0000" stop="20201020210100 +0000" channel="xxl.fr">
+    <title>Barker XXL</title>
+    <desc>Série Adultes</desc>
+  </programme>
+  <programme start="20201020210100 +0000" stop="20201020211200 +0000" channel="xxl.fr">
+    <title>Barker XXL</title>
+    <desc>Série Adultes</desc>
+  </programme>
+  <programme start="20201020211200 +0000" stop="20201020220100 +0000" channel="xxl.fr">
+    <title>Sex Friends Safari Vol.1</title>
+    <desc>Téléfilm Adultes</desc>
+  </programme>
+  <programme start="20201020220100 +0000" stop="20201021000700 +0000" channel="xxl.fr">
+    <title>Nikita Bellucci Superstar Vol 2</title>
+    <desc>Téléfilm Adultes</desc>
+  </programme>
+  <programme start="20201021000700 +0000" stop="20201021012700 +0000" channel="xxl.fr">
+    <title>La prof de sport</title>
+    <desc>Film Adultes</desc>
+  </programme>
+  <programme start="20201021012700 +0000" stop="20201021014300 +0000" channel="xxl.fr">
+    <title>Sa première fois avec un black</title>
+    <desc>Téléfilm Adultes</desc>
+  </programme>
+  <programme start="20201021014300 +0000" stop="20201021020700 +0000" channel="xxl.fr">
+    <title>Cette teen baise avec un vieux pour le réconforter</title>
+    <desc>Téléfilm Erotique</desc>
+  </programme>
+  <programme start="20201021020700 +0000" stop="20201021023100 +0000" channel="xxl.fr">
+    <title>Marina Beaulieu: La MILF qui adore les fellations !</title>
+    <desc>Film Adultes</desc>
+  </programme>
+  <programme start="20201021023100 +0000" stop="20201021030200 +0000" channel="xxl.fr">
+    <title>Barker XXL</title>
+    <desc>Série Adultes</desc>
+  </programme>
+  <programme start="20201021030200 +0000" stop="20201021032400 +0000" channel="xxl.fr">
+    <title>Fin des programmes</title>
+    <desc>Divers</desc>
+  </programme>
+</tv>
